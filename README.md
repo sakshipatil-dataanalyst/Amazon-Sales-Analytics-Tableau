@@ -6,12 +6,13 @@ This project presents an interactive **Amazon Sales Analytics Dashboard** built 
 
 ## 🎯 Objectives
 
-* Analyze overall sales and profit performance
-* Identify top-performing products and categories
-* Analyze regional sales performance
-* Understand sales trends over time
-* Identify profitable and underperforming areas
-* Provide interactive business insights using Tableau
+* To analyze overall sales and profit performance
+* To identify top-performing products and categories
+* To analyze sales performance across different regions
+* To understand sales trends over time
+* To identify profitable and underperforming areas
+* To provide interactive business insights for data-driven decision-making
+
 
 ## 🛠️ Tools & Technologies
 
